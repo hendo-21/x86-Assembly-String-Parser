@@ -78,5 +78,5 @@ The program behavior is controlled by constants defined at the top of the source
 
 ## Files
 
- `TempParser.asm` - Full program source 
- `TestTemps.txt` - Collection of test input cases 
+-  `TempParser.asm` - Full program source 
+-  `TestTemps.txt` - Collection of test input cases 
